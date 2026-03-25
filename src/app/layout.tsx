@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'テキスト整形ツール',
-  description: '入力テキストを整形するミニWebツール',
+  title: 'みやのツール置き場',
+  description: 'よく使う作業をブラウザで手軽にできるツール集',
 }
 
 export default function RootLayout({
